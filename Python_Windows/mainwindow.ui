@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Cave à Bières</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label">
@@ -216,17 +216,17 @@
     </column>
     <item row="0" column="0">
      <property name="text">
-      <string>1664</string>
+      <string/>
      </property>
     </item>
     <item row="0" column="1">
      <property name="text">
-      <string>Blonde</string>
+      <string/>
      </property>
     </item>
     <item row="0" column="2">
      <property name="text">
-      <string>3.4</string>
+      <string/>
      </property>
     </item>
    </widget>

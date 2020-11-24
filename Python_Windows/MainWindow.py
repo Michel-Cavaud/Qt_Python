@@ -105,7 +105,7 @@ class Ui_ListeBiere(object):
 
     def retranslateUi(self, ListeBiere):
         _translate = QtCore.QCoreApplication.translate
-        ListeBiere.setWindowTitle(_translate("ListeBiere", "MainWindow"))
+        ListeBiere.setWindowTitle(_translate("ListeBiere", "Cave à Bières"))
         self.label.setText(_translate("ListeBiere", "<html><head/><body><p align=\"center\"><span style=\" font-size:22pt; font-weight:600;\">Formulaire</span></p></body></html>"))
         self.label_2.setText(_translate("ListeBiere", "<html><head/><body><p align=\"right\"><span style=\" font-size:14pt; font-weight:600;\">Nom :</span></p></body></html>"))
         self.label_3.setText(_translate("ListeBiere", "<html><head/><body><p align=\"right\"><span style=\" font-size:14pt; font-weight:600;\">Varièté :</span></p></body></html>"))
@@ -118,11 +118,5 @@ class Ui_ListeBiere(object):
         item.setText(_translate("ListeBiere", "Degré"))
         __sortingEnabled = self.tableWidget.isSortingEnabled()
         self.tableWidget.setSortingEnabled(False)
-        item = self.tableWidget.item(0, 0)
-        item.setText(_translate("ListeBiere", "1664"))
-        item = self.tableWidget.item(0, 1)
-        item.setText(_translate("ListeBiere", "Blonde"))
-        item = self.tableWidget.item(0, 2)
-        item.setText(_translate("ListeBiere", "3.4"))
         self.tableWidget.setSortingEnabled(__sortingEnabled)
         self.toolBar.setWindowTitle(_translate("ListeBiere", "toolBar"))
