@@ -18,6 +18,6 @@ J'ai testé les fonctionnalités de Qt en Python en utilisant Qt désigner afin 
 
 ## Un peu plus loin ...
 J'ai été un peu plus loin dans mes investigations en installant QtCreator pour Windows toujours en utilisant Python.
-J'ai repris de le TP complet sur le tableau des bières en reprenant l'interface graphique et en ajoutant l'ensemble du code (en Python) pour avoir une interface fonctionnelle.  
+J'ai repris de le TP complet sur le tableau des bières en reprenant l'interface graphique et en ajoutant l'ensemble du code (en Python) pour avoir une interface fonctionnelle. Et j'ai ajouté une sauvegarde des données du tabeau des Bières dans un fichier CSV récupéré au démarrage de l'application 
 
 
